@@ -1,0 +1,12 @@
+{
+  "name": "testDemo",
+  "version": "1.0.0",
+  "description": "a todo-list eqv of test suite",
+  "main": "index.js",
+  "author": "aditya.2272.sharma@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "karma": "^1.7.0",
+    "karma-cli": "^1.0.1"
+  }
+}
