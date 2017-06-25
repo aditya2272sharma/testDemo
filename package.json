@@ -31,14 +31,19 @@
     "jit-grunt": "^0.10.0",
     "jshint-stylish": "^1.0.0",
     "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.1",
+    "karma-firefox-launcher": "^1.0.1",
     "karma-jasmine": "^1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2",
     "karma-phantomjs-launcher": "^1.0.4",
+    "karma-spec-reporter": "^0.0.31",
     "time-grunt": "^1.0.0"
   },
   "engines": {
     "node": ">=0.10.0"
   },
-  "dependencies": {
+  " dependencies": {
     "global": "^4.3.2"
   }
 }
